@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
@@ -27,8 +26,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="images/images/about.html">About</a>
-        </li>
-        
+        </li>   
       </ul>
     </div>
   </div>
@@ -64,17 +62,11 @@
   </div>
 </section>
 </main>
-
 <!--bootstrap footer-->
-
 <footer class="bg-dark text-white text-center py-4">
     <div class="container">
         <p class="mb-0">&copy; 2025 Heritage Explorer. All rights are reserved.</p>
 </footer>
-
-
 <!--bootstrap footer-->
-
-
     </body>
 </html>
